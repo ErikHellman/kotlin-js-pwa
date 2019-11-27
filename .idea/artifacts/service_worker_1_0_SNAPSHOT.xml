@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="service-worker-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/service-worker/build/libs</output-path>
+    <root id="archive" name="service-worker-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="se.hellsoft.service-worker.main" />
+    </root>
+  </artifact>
+</component>
